@@ -9,7 +9,9 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/zh-CN/pxt-brainco-jsdoc-strings.json",
+        "_locales/zh-CN/pxt-brainco-strings.json"
     ],
     "testFiles": [
         "test.ts"
